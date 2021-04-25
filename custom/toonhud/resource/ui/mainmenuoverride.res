@@ -2068,7 +2068,7 @@
 		"tall"			"20"
 		"zpos"			"11"
 		"visible"		"1" // 1 BM1
-		"Command"		"engine map tr_walkway_rc2" // 3 BM1
+		"Command"		"engine sv_allow_point_servercommand always; map tr_walkway_rc2" // 3 BM1
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"NoBorder"
@@ -2106,7 +2106,7 @@
 		"tall"			"20"
 		"zpos"			"11"
 		"visible"		"1" // 1 BM2
-		"Command"		"engine map tr_juggle_final" // 3 BM2
+		"Command"		"engine sv_allow_point_servercommand always; map tr_juggle_final" // 3 BM2
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"NoBorder"
@@ -2183,7 +2183,7 @@
 //#SBB 		"tall"			"20"
 //#SBB 		"zpos"			"11"
 //#SBB 		"visible"		"1" // 1 BM1
-//#SBB 		"Command"		"engine map tr_walkway_rc2" // 3 BM1
+//#SBB 		"Command"		"engine sv_allow_point_servercommand always; map tr_walkway_rc2" // 3 BM1
 //#SBB 		"PaintBackgroundType"	"2"
 //#SBB 		"paintborder"	"1"
 //#SBB 		"border"		"NoBorder"
@@ -2221,7 +2221,7 @@
 //#SBB 		"tall"			"20"
 //#SBB 		"zpos"			"11"
 //#SBB 		"visible"		"1" // 1 BM2
-//#SBB 		"Command"		"engine map tr_juggle_final" // 3 BM2
+//#SBB 		"Command"		"engine sv_allow_point_servercommand always; map tr_juggle_final" // 3 BM2
 //#SBB 		"PaintBackgroundType"	"2"
 //#SBB 		"paintborder"	"1"
 //#SBB 		"border"		"NoBorder"

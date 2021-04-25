@@ -98,6 +98,7 @@
 		"command"	"engine play vo/toughbreak/eng_quest_complete_hard_03.mp3"
 		"subimage"	"replay/thumbnails/glyphs/glyph_toonhud"
 		"tooltip"	"ToonHUD 11.1 by Griever"
+
 	}
 
 }

@@ -96,7 +96,7 @@
 			"tabPosition"	"0"
 			"image"			"../hud/halloween_bar"
 			"scaleImage"	"1"		
-			"drawcolor"		"200 0 200 255"
+			"drawcolor"		"255 0 0 255"
 		}
 	}				
 

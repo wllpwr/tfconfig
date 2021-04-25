@@ -79,7 +79,7 @@
 		"xpos"			"0" // 1 TI
 		"ypos"			"r30" // 2 TI
 		"zpos"			"50"		
-		"wide"			"30"
+		"wide"			"180"
 		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
